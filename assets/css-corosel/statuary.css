@@ -1,0 +1,265 @@
+      #close1 button{
+    font-weight: 800;
+  }
+  #close1{
+display: none;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+height: 100vh; /* Set the height of the container to 100% of the viewport height */
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+}
+
+
+#close1 iframe {
+width: 80%; /* Adjust the width of the iframe as needed */
+height: 80%; /* Adjust the height of the iframe as needed */
+}
+/* 1 */
+
+#close2 button{
+font-weight: 800;
+}
+#close2{
+display: none;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+height: 100vh; /* Set the height of the container to 100% of the viewport height */
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+}
+
+#close2 iframe {
+width: 80%; /* Adjust the width of the iframe as needed */
+height: 80%; /* Adjust the height of the iframe as needed */
+}
+/* 2 */
+#close3 button{
+font-weight: 800;
+}
+#close3{
+display: none;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+height: 100vh; /* Set the height of the container to 100% of the viewport height */
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+}
+
+#close3 iframe {
+width: 80%; /* Adjust the width of the iframe as needed */
+height: 80%; /* Adjust the height of the iframe as needed */
+}
+/* 3 */
+#close4 button{
+font-weight: 800;
+}
+#close4{
+display: none;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+height: 100vh; /* Set the height of the container to 100% of the viewport height */
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+}
+
+#close4 iframe {
+width: 80%; /* Adjust the width of the iframe as needed */
+height: 80%; /* Adjust the height of the iframe as needed */
+}
+/* 4 */
+#close4 button{
+    font-weight: 800;
+    }
+    #close4{
+    display: none;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh; /* Set the height of the container to 100% of the viewport height */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+    }
+    
+    #close4 iframe {
+    width: 80%; /* Adjust the width of the iframe as needed */
+    height: 80%; /* Adjust the height of the iframe as needed */
+    }
+    /* 5 */
+    #close5 button{
+        font-weight: 800;
+        }
+        #close5{
+        display: none;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh; /* Set the height of the container to 100% of the viewport height */
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+        }
+        
+        #close5 iframe {
+        width: 80%; /* Adjust the width of the iframe as needed */
+        height: 80%; /* Adjust the height of the iframe as needed */
+        }
+        /* 6 */
+        #close6 button{
+            font-weight: 800;
+            }
+            #close6{
+            display: none;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh; /* Set the height of the container to 100% of the viewport height */
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+            }
+            
+            #close6 iframe {
+            width: 80%; /* Adjust the width of the iframe as needed */
+            height: 80%; /* Adjust the height of the iframe as needed */
+            }
+            /* 7 */
+            #close7 button{
+                font-weight: 800;
+                }
+                #close7{
+                display: none;
+                justify-content: center;
+                flex-direction: column;
+                align-items: center;
+                height: 100vh; /* Set the height of the container to 100% of the viewport height */
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+                }
+                
+                #close7 iframe {
+                width: 80%; /* Adjust the width of the iframe as needed */
+                height: 80%; /* Adjust the height of the iframe as needed */
+                }
+                /* 8 */
+                #close8 button{
+                    font-weight: 800;
+                    }
+                    #close8{
+                    display: none;
+                    justify-content: center;
+                    flex-direction: column;
+                    align-items: center;
+                    height: 100vh; /* Set the height of the container to 100% of the viewport height */
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    bottom: 0;
+                    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+                    }
+                    
+                    #close8 iframe {
+                    width: 80%; /* Adjust the width of the iframe as needed */
+                    height: 80%; /* Adjust the height of the iframe as needed */
+                    }
+                    /* 9 */
+                    #close9 button{
+                        font-weight: 800;
+                        }
+                        #close9{
+                        display: none;
+                        justify-content: center;
+                        flex-direction: column;
+                        align-items: center;
+                        height: 100vh; /* Set the height of the container to 100% of the viewport height */
+                        position: fixed;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        bottom: 0;
+                        background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+                        }
+                        
+                        #close9 iframe {
+                        width: 80%; /* Adjust the width of the iframe as needed */
+                        height: 80%; /* Adjust the height of the iframe as needed */
+                        }
+                        /* 10 */
+                        #close10 button{
+                            font-weight: 800;
+                            }
+                            #close10{
+                            display: none;
+                            justify-content: center;
+                            flex-direction: column;
+                            align-items: center;
+                            height: 100vh; /* Set the height of the container to 100% of the viewport height */
+                            position: fixed;
+                            top: 0;
+                            left: 0;
+                            right: 0;
+                            bottom: 0;
+                            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+                            }
+                            
+                            #close10 iframe {
+                            width: 80%; /* Adjust the width of the iframe as needed */
+                            height: 80%; /* Adjust the height of the iframe as needed */
+                            }
+                            /* 11 */
+                            #close11 button{
+                                font-weight: 800;
+                                }
+                                #close11{
+                                display: none;
+                                justify-content: center;
+                                flex-direction: column;
+                                align-items: center;
+                                height: 100vh; /* Set the height of the container to 100% of the viewport height */
+                                position: fixed;
+                                top: 0;
+                                left: 0;
+                                right: 0;
+                                bottom: 0;
+                                background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background to overlay the page */
+                                }
+                                
+                                #close11 iframe {
+                                width: 80%; /* Adjust the width of the iframe as needed */
+                                height: 80%; /* Adjust the height of the iframe as needed */
+                                }
